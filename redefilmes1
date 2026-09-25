@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg", Banho de Sangue (2018)
+http://redeflixapi.store/filme/548754
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/Av758PktOlmKVlCzkhKBJqwpFcN.jpg", Ghislaine Maxwell: Filthy Rich (2022)
 http://redeflixapi.store/filme/1040599
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg", Boa noite, Oppy (2022)
