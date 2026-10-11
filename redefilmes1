@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hhGdaRSQJOjWbTstHtfnIEHqIE8.jpg", [FILME] Terapia Intensiva (2013)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/Terapia%20Intensiva%20_2026_%20_tmdb_160768_81fbd7ff.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/soBXxFTDMi8ELZpFWcClKX6aSED.jpg", [FILME] Street Fighter: A Última Batalha (1994)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/Street%20Fighter_%20A%20Ultima%20Batalha%20_2026_%20_tmdb_11667_82686a9e.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/ixNnmd0kcbm1z5xR0pw14GvGxWM.jpg", [FILME] Batalha por T.E.R.R.A. (2007)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/Batalha%20por%20T.E.R.R.A%20_2026_%20_tmdb_16873_4b70f6aa.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dxkFhIg6a2yilee5A7mZrv2GXWi.jpg", [FILME] Insaciável (2026)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/Insaciavel%20_2026_%20_tmdb_1363387_bda6e54c.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg", [FILME] A Maldição do Tubarão (2026)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/A%20Maldicao%20do%20Tubarao%20_2026_%20_tmdb_1741207_c10effb8.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg", [FILME] 9 Canções (2004)
+https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/9%20Cancoes%20_2026_%20_tmdb_27_65e19f93.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mebBWpOzmwEwdMfcQV8NjKXL5Ff.jpg", [FILME] Força-G
 https://pobreflix21.lat/player/home?id=19585&t=For%C3%A7a-G&p=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FmebBWpOzmwEwdMfcQV8NjKXL5Ff.jpg&audio=dub
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg", Banho de Sangue (2018)
