@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7fk3rvAiAt1pdfz0VmhphEXRGF4.jpg", Um Presente para Helen (2004)
-https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/helen-dublado.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/3MeHMXebL7g5LrlnPh2YvyXvOO0.jpg", My Little Pony: Equestria Girls - Magical Movie Night (2017)
-https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/My%20Little%20Pony_%20Equestria%20Girls%20-%20Magical%20Movie%20Night%20_2017_%20_tmdb_527429_0b17c253.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg", Avatar Aang: O Último Mestre do Ar (2026)
-https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/m/Avatar%20Aang_%20O%20_ltimo%20Mestre%20do%20Ar%20_2026_%20_tmdb_980431_374e737c.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg", Banho de Sangue (2018)
 http://redeflixapi.store/filme/548754
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/Av758PktOlmKVlCzkhKBJqwpFcN.jpg", Ghislaine Maxwell: Filthy Rich (2022)
